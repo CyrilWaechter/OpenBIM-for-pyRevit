@@ -1,0 +1,14 @@
+type: extension
+rocket_mode_compatible: true
+name: OpenBIM
+description: OpenBIM extension for PyRevit
+author: Cyril Waechter
+author_profile: https://github.com/CyrilWaechter
+url: https://framagit.org/CyrilWaechter/openbim-for-pyrevit
+website: https://blenderbim.org/
+image: 
+dependencies:
+
+templates:
+    author: Cyril Waechter
+    youtube: https://www.youtube.com/channel/UCIsRFoaVQNSl_RlGAZE2mVg

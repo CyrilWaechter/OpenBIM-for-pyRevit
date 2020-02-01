@@ -1,0 +1,9 @@
+title:
+  en_us: GetByGlobalId
+  fr_fr: |
+    ChercherPar
+    GlobalId
+tooltip:
+  en_us: |
+    Allow you to select element by IFC GlobalId.
+    For multiple elements use comma separated GlobalIds.
